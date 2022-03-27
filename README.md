@@ -1,1 +1,1 @@
-# authrization
+# authrisation
